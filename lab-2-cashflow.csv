@@ -1,0 +1,23 @@
+Product,Year,Cash flows,Interest rate
+Flood insurance,0,24000,0.025
+Flood insurance,1,-2000,0.026
+Flood insurance,2,-2000,0.027
+Flood insurance,3,-2000,0.028
+Flood insurance,4,-2000,0.029
+Flood insurance,5,-2000,0.03
+Flood insurance,6,-2000,0.031
+Flood insurance,7,-2000,0.032
+Flood insurance,8,-2000,0.033
+Flood insurance,9,-2000,0.034
+Flood insurance,10,-2000,0.035
+Fire insurance,0,3000,0.025
+Fire insurance,1,-500,0.026
+Fire insurance,2,-300,0.027
+Fire insurance,3,-200,0.028
+Fire insurance,4,-200,0.029
+Fire insurance,5,-200,0.03
+Fire insurance,6,-200,0.031
+Fire insurance,7,-200,0.032
+Fire insurance,8,-200,0.033
+Fire insurance,9,-200,0.034
+Fire insurance,10,-100,0.035
